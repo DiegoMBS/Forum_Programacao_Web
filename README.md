@@ -3,7 +3,7 @@
 Projeto desenvolvido como atividade da materia de Programação Web, da graduação de ADS .
 
 O intuito deste projeto é, desenvolver uma tela index, utilizando HTML e CSS, aonde foi coletada a data de aniversario do usuario.
-A segunda parte seria criar uma tela que apresente o signo correspondente, nesta pagina foram utilizados HTML, CSS e PHP, para realizar a consulta no XML.
+A segunda parte seria criar uma tela que apresente o signo correspondente, nesta pagina foram utilizados HTML, CSS e PHP, para realizar a consulta e apresentar os dados contidos no XML.
 
 
 Segue prints das telas do projeto:
