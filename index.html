@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descubra seu signo</title>
+
+</head>
+<style>
+    .form1 {
+        height: 600px;
+        width: 360px;
+        margin: 100px auto;
+        box-shadow: 5px 5px 5px rgb(209, 207, 207);
+        background: rgb(240, 239, 239);
+
+    }
+
+    .card1 {
+        padding: 50px;
+        text-align: center;
+
+    }
+
+    .datanasc {
+        padding: 05px;
+        text-align: center;
+        margin: 15px 15px;
+        width: 200px;
+        font-size: 15px;
+        font-style: oblique;
+        font-family: 'Arial';
+
+    }
+
+    .btnSigno {
+        padding: 20px;
+        text-align: center;
+        margin: 20px 15px;
+        width: 330px;
+        border-radius: 0%;
+        font-size: 15px;
+        font-style: oblique;
+        font-family: 'Arial';
+    }
+</style>
+
+<body background="Signos-0752-749316-1-zoom.jpg">
+
+    <div id="conteiner">
+
+        <form class="form1" action="Info_Signo.php" method="post">
+            <div class="card1">
+                <h2>Descubra qual é seu Signo</h2><br>
+                <label>
+                    <h3>Informe sua data de Nascimento</h3>
+                </label>
+
+                <input type="date" class="datanasc" placeholder="Data de nascimento" name="dataNascimento" require>
+
+            </div>
+            <br><br>
+            <button type="submit" class="btnSigno">Pesquisar Signo</button>
+
+        </form>
+    </div>
+
+</body>
+
+</html>

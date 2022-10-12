@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding = 'UTF-8'?>
+<signos>
+    <titulo>Arquivo dos Signos </titulo>
+    <signo>
+        <dataInicio>03-21</dataInicio>
+        <dataFim>04-20</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é um signo que respeita a individualidade de cada um e espera uma atitude recíproca do próximo. Não que seja um problema liderar, pelo contrário, você sabe mandar, mas é que para você é muito óbvio que cada um pode fazer o que quiser, na hora que quiser.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>04-21</dataInicio>
+        <dataFim>05-20</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é o signo ligado à vida material e, por isso, podemos dizer que ele está relacionado ao seu dinheiro, à comida, posses, ao conforto e ao corpo. Touro é ouro, saiba disso, taurina. Você sabe valorizar tudo que é tátil e que ativa o seu sensorial. Você sabe enxergar a qualidade das coisas só de olhar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>05-21</dataInicio>
+        <dataFim>06-20</dataFim>
+        <signoNome>Gemeos</signoNome>
+        <descricao>Gêmeos é um dos signos mais engraçados do zodíaco, graças ao seu raciocínio rápido e sua habilidade de enxergar as coisas de um ponto de vista mais leve. Essas qualidades fazem com que as geminianas possuam uma criatividade muito grande, no sentido de conseguirem pensar em soluções inusitadas para qualquer problema.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>06-21</dataInicio>
+        <dataFim>07-22</dataFim>
+        <signoNome>Cancer</signoNome>
+        <descricao>Câncer, o signo das emoções. Se existe um signo que veio para aprender a fluir nas oscilações e na beleza dos feelings todos é esse.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>07-23</dataInicio>
+        <dataFim>08-22</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Todo mundo conhece o clichê da descrição leonina, mas ela é a mais pura verdade: Leão brilha muito.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>08-23</dataInicio>
+        <dataFim>09-22</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>A maioria dos virginianos se orgulha das qualidades de seu signo, pois ele é sinônimo de pragmatismo, trabalho, funcionalidade, organização e saúde, coisas que são muito bem vindas por todos nós nos dias de hoje.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>09-23</dataInicio>
+        <dataFim>10-22</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é um signo ligado ao elemento Ar e regido pelo planeta Vênus e, por isso, usa suas habilidades para trazer harmonia a tudo que a cerca através de seu talento de enxergar a mesma coisa através de muitos pontos de vista.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>10-23</dataInicio>
+        <dataFim>11-21</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é o mais indecifrável de todos os signos, e ele prefere manter as coisas assim, do jeito que estão, sob seu controle, pois seu enigmatismo lhe confere bastante poder.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>11-22</dataInicio>
+        <dataFim>12-21</dataFim>
+        <signoNome>Sagitario</signoNome>
+        <descricao>Sagitário está ligado ao elemento Fogo e é o primeiro do grupo dos signos sociais. É o Fogo sem limites, e isso se reflete no seu jeito de olhar para o mundo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>12-22</dataInicio>
+        <dataFim>01-20</dataFim>
+        <signoNome>Capricornio</signoNome>
+        <descricao>Capricórnio é um dos signos mais julgados do zodíaco. Sem querer inserir trocadilhos, mas, por coincidência, Capricórnio é o próprio signo ligado ao julgamento.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>01-21</dataInicio>
+        <dataFim>02-18</dataFim>
+        <signoNome>Aquario</signoNome>
+        <descricao>Aquário é o signo ligado ao novo, ao futuro, à tecnologia, à liberdade e a tudo que é diferente. Ele veio para questionar e renovar tudo o que veio antes dele – muitas vezes, pensando em como essas mudanças afetariam a sociedade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>02-19</dataInicio>
+        <dataFim>03-20</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>O último signo do zodíaco é profundo como um oceano e consegue navegar em dimensões aonde os mais racionais não chegam. Peixes está ligado a assuntos que envolvem introspecção, como espiritualidade, empatia, a conexão universal e o inconsciente.</descricao>
+    </signo>
+</signos>
