@@ -20,4 +20,4 @@ A proxima tela apresenta o resultado do signo, correspondente ao encontrado no a
 
 
 atividade concluida. 
-posteriormente, pretendo apromorar o front desta pagina.
+posteriormente, pretendo aprimorar o front desta pagina.
