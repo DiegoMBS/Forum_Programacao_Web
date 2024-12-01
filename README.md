@@ -1,9 +1,9 @@
 # Forum_Programacao_Web
 
-Projeto desenvolvido como atividade da materia de Programação Web, da graduação de ADS .
+Projeto desenvolvido como atividade para materia de Programação Web, na graduação de ADS .
 
-O intuito deste projeto é, desenvolver uma tela index, utilizando HTML e CSS, aonde foi coletada a data de aniversario do usuario.
-A segunda parte seria criar uma tela que apresente o signo correspondente, nesta pagina foram utilizados HTML, CSS e PHP, para realizar a consulta e apresentar os dados contidos no XML.
+O intuito deste projeto é, desenvolver uma tela index, utilizando HTML e CSS, aonde e coletada a data de aniversario do usuario.
+A segunda parte seria criar uma tela que apresenta o signo correspondente, nesta pagina foram utilizados HTML, CSS e PHP, para realizar a consulta e apresentar os dados contidos em XML.
 
 
 Segue prints das telas do projeto:
