@@ -21,5 +21,5 @@ A proxima tela apresenta o resultado do signo, correspondente ao encontrado no a
 
 atividade concluida. 
 
-Proximo passo será melhorar o front end desta página, deixando mais intuitiva.
+Proximo passo será melhorar o front end desta página.
 
