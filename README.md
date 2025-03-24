@@ -1,25 +1,65 @@
-# Forum_Programacao_Web
-
-Projeto desenvolvido como atividade para materia de Programação Web, na graduação de ADS .
-
-O intuito deste projeto é, desenvolver uma tela index, utilizando HTML e CSS, aonde e coletada a data de aniversario do usuario.
-A segunda parte seria criar uma tela que apresenta o signo correspondente, nesta pagina foram utilizados HTML, CSS e PHP, para realizar a consulta e apresentar os dados contidos em XML.
+## 🌌 Descubra Seu Signo 🌟  
 
 
-Segue prints das telas do projeto:
+Este é um projeto Web interativo que permite ao usuário descobrir seu signo do zodíaco, informando a sua data de nascimento. O sistema processa a data e retorna o signo correspondente com base no calendário astrológico. As páginas foram desenvolvida com HTML, CSS e PHP, com um design simples, intuitivo e de fácil navegação.
 
-![Tela Index-html](https://user-images.githubusercontent.com/91227185/195465219-aa3c3731-f9b3-4eb4-bed1-7ad3dc3954c8.PNG)
+<br>
+## 📸 Visão Geral
+
+### Tela Principal  
+![Tela Principal](./Tela%20Index-html.PNG)  
+
+### Tela de Resultado  
+![Tela de Signo](./Tela%20info_Signo-PHP.PNG)  
+
+<br>
+## 📂 Estrutura do Projeto 
+
+📁 Descubra-Seu-Signo 
+│── 📄 index.html # Página inicial com formulário para inserção da data 
+│── 📄 Info_Signo.php # Script PHP responsável por calcular e exibir o signo 
+│── 📄 signos.xml # Base de dados XML contendo a relação entre datas e signos 
+│── 📄 README.md # Documentação do projeto 
+│── 📄 Tela Index-html.PNG # Captura de tela da interface inicial 
+│── 📄 Tela info_Signo-PHP.PNG # Captura de tela da interface com o resultado
 
 
+---
+<br>
+## 🚀 Tecnologias Utilizadas  
 
-A proxima tela apresenta o resultado do signo, correspondente ao encontrado no arquivo XML:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:  
 
-![Tela info_Signo-PHP](https://user-images.githubusercontent.com/91227185/195465395-32204f4c-8339-41ae-a0a9-de5b891071c0.PNG)
+- **HTML5** → Estruturação da interface do usuário.  
+- **CSS3** → Estilização e design responsivo.  
+- **PHP** → Processamento da data e lógica para determinação do signo.  
+- **XML** → Base de dados contendo as datas e respectivos signos.  
+
+---
+
+<br>
+## 🛠️ Como Executar o Projeto Localmente  
+
+Caso queira rodar o projeto em um ambiente local, siga os passos abaixo:  
+
+<br>
+1️⃣ **Clone este repositório**  
+   
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/DiegoMBS/Forum_Programacao_Web.git)
 
 
+<br>
+## 🌍 Deploy 
+
+O projeto está disponível online e pode ser acessado através do seguinte link:  
+
+🔗 [Clique aqui para acessar:](http://projeto-descubra-seu-signo.kesug.com/index.html)  
 
 
-atividade concluida. 
+<br>
+👨‍💻 Desenvolvedor
+Criado por Diego Marques.
 
-Proximo passo será melhorar o front end desta página, deixando mais intuitiva.
 
+Se você gostou do projeto, não se esqueça de deixar uma ⭐ no repositório!
+ 
