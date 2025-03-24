@@ -47,7 +47,7 @@ Caso queira rodar o projeto em um ambiente local, siga os passos abaixo:
    
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/DiegoMBS/Forum_Programacao_Web.git)
 
-
+---
 <br>
 ## 🌍 Deploy 
 
@@ -55,7 +55,7 @@ O projeto está disponível online e pode ser acessado através do seguinte link
 
 🔗 [Clique aqui para acessar:](http://projeto-descubra-seu-signo.kesug.com/index.html)  
 
-
+---
 <br>
 👨‍💻 Desenvolvedor
 Criado por Diego Marques.
