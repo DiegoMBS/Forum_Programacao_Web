@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding = 'UTF-8'?>
 <signos>
     <titulo>Arquivo dos Signos </titulo>
+
+    <signo>
+        <dataInicio>02-19</dataInicio>
+        <dataFim>03-20</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>O último signo do zodíaco é profundo como um oceano e consegue navegar em dimensões aonde os mais racionais não chegam. Peixes está ligado a assuntos que envolvem introspecção, como espiritualidade, empatia, a conexão universal e o inconsciente.</descricao>
+    </signo>
     <signo>
         <dataInicio>03-21</dataInicio>
         <dataFim>04-20</dataFim>
@@ -67,10 +74,5 @@
         <signoNome>Aquario</signoNome>
         <descricao>Aquário é o signo ligado ao novo, ao futuro, à tecnologia, à liberdade e a tudo que é diferente. Ele veio para questionar e renovar tudo o que veio antes dele – muitas vezes, pensando em como essas mudanças afetariam a sociedade.</descricao>
     </signo>
-    <signo>
-        <dataInicio>02-19</dataInicio>
-        <dataFim>03-20</dataFim>
-        <signoNome>Peixes</signoNome>
-        <descricao>O último signo do zodíaco é profundo como um oceano e consegue navegar em dimensões aonde os mais racionais não chegam. Peixes está ligado a assuntos que envolvem introspecção, como espiritualidade, empatia, a conexão universal e o inconsciente.</descricao>
-    </signo>
+
 </signos>
