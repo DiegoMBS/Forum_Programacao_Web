@@ -7,10 +7,11 @@ Este é um projeto Web interativo que permite ao usuário descobrir seu signo do
 ## 📸 Visão Geral
 
 ### Tela Principal  
-![Tela Principal](./Tela%20Index-html.PNG)  
+![Tela_principal](https://github.com/user-attachments/assets/1cb90a8a-98ff-4abb-b783-4d296385d3ef)
+
 
 ### Tela de Resultado  
-![Tela de Signo](./Tela%20info_Signo-PHP.PNG)  
+![tela_resultado](https://github.com/user-attachments/assets/cac446dc-8924-49c6-9258-c4f58f7bf217)
 
 <br>
 ## 📂 Estrutura do Projeto 
