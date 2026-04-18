@@ -8,12 +8,12 @@ Este é um projeto Web interativo que permite ao usuário descobrir seu signo do
 # 📸 Visão Geral
 
 ### Tela Principal  
-![Tela_principal](<img width="810" height="582" alt="image" src="https://github.com/user-attachments/assets/300381fc-dae7-4ece-841a-e23a90976d71" />)
+![Tela_principal](Tela Index-html.PNG)
 
 
 
 ### Tela de Resultado  
-![tela_resultado](<img width="834" height="648" alt="image" src="https://github.com/user-attachments/assets/19746ae7-d8ef-4022-9e2e-372563ad24ae" />)
+![tela_resultado](Tela info_Signo-PHP.PNG)
 
 
 <br>
