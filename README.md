@@ -8,13 +8,11 @@ Este é um projeto Web interativo que permite ao usuário descobrir seu signo do
 # 📸 Visão Geral
 
 ### Tela Principal  
-([Tela Index-html.PNG](https://github.com/DiegoMBS/Forum_Programacao_Web/blob/master/Tela%20Index-html.PNG))
-
+![Tela_principal](Tela%20Index-html.PNG)
 
 
 ### Tela de Resultado  
-([Tela info_Signo-PHP.PNG](https://github.com/DiegoMBS/Forum_Programacao_Web/blob/master/Tela%20info_Signo-PHP.PNG))
-
+![tela_resultado](Tela%20info_Signo-PHP.PNG)
 
 <br>
 
@@ -60,9 +58,9 @@ Caso queira rodar o projeto em um ambiente local, siga os passos abaixo:
 
 # 🌍 Deploy 
 
-O projeto está disponível online e pode ser acessado através do seguinte link:  [seusigno]((https://seusigno.dmbs.com.br/index.html))
+O projeto está disponível online e pode ser acessado através do seguinte link:  
 
-
+🔗 [Clique aqui para acessar:](http://projeto-descubra-seu-signo.kesug.com/index.html)  
 
 ---
 <br>
