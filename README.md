@@ -60,7 +60,7 @@ Caso queira rodar o projeto em um ambiente local, siga os passos abaixo:
 
 O projeto está disponível online e pode ser acessado através do seguinte link:  
 
-🔗 [Clique aqui para acessar:](seusigno.dmbs.com.br/index.html)  
+🔗 [Clique aqui para acessar:](hhtp://seusigno.dmbs.com.br/index.html)  
 
 ---
 <br>
