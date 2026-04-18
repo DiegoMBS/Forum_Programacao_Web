@@ -8,11 +8,13 @@ Este é um projeto Web interativo que permite ao usuário descobrir seu signo do
 # 📸 Visão Geral
 
 ### Tela Principal  
-![Tela_principal](https://github.com/user-attachments/assets/1cb90a8a-98ff-4abb-b783-4d296385d3ef)
+![Tela_principal](<img width="810" height="582" alt="image" src="https://github.com/user-attachments/assets/300381fc-dae7-4ece-841a-e23a90976d71" />)
+
 
 
 ### Tela de Resultado  
-![tela_resultado](https://github.com/user-attachments/assets/cac446dc-8924-49c6-9258-c4f58f7bf217)
+![tela_resultado](<img width="834" height="648" alt="image" src="https://github.com/user-attachments/assets/19746ae7-d8ef-4022-9e2e-372563ad24ae" />)
+
 
 <br>
 
@@ -58,7 +60,7 @@ Caso queira rodar o projeto em um ambiente local, siga os passos abaixo:
 
 # 🌍 Deploy 
 
-O projeto está disponível online e pode ser acessado através do seguinte link:  
+O projeto está disponível online e pode ser acessado através do seguinte link:  [seusigno]((https://seusigno.dmbs.com.br/index.html))
 
 
 
