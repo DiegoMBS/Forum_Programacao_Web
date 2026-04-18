@@ -8,12 +8,12 @@ Este é um projeto Web interativo que permite ao usuário descobrir seu signo do
 # 📸 Visão Geral
 
 ### Tela Principal  
-![Tela_principal](Tela Index-html.PNG)
+([Tela Index-html.PNG](https://github.com/DiegoMBS/Forum_Programacao_Web/blob/master/Tela%20Index-html.PNG))
 
 
 
 ### Tela de Resultado  
-![tela_resultado](Tela info_Signo-PHP.PNG)
+([Tela info_Signo-PHP.PNG](https://github.com/DiegoMBS/Forum_Programacao_Web/blob/master/Tela%20info_Signo-PHP.PNG))
 
 
 <br>
